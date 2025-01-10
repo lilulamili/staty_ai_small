@@ -1,0 +1,20 @@
+[server]
+port = 8075
+
+#----------------
+# Remove a # before each of the following 3 lines if don't want your app to be accessible in your home network.
+#[browser]
+#serverAddress = "localhost"
+#port = 8075
+
+[client]
+showErrorDetails = true
+
+[theme]
+primaryColor="#38bcf0"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#f2f2f7"
+textColor="#262730"
+font="sans serif"
+
+[global]
